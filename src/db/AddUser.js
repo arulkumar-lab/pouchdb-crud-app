@@ -1,10 +1,10 @@
 import React from 'react';
 import PouchDB from 'pouchdb';
-function AddUser () {
+function AddUser (userName) {
     let db = new PouchDB('todos');
     let addRecord = {
         _id: new Date().toISOString(),
-        title: "aaaaaa",
+        title: userName,
         completed: false
     };
 
