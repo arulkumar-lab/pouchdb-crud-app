@@ -1,4 +1,3 @@
-import React from 'react';
 import PouchDB from "pouchdb";
 function DeleteUser(todo) {
     let db = new PouchDB('todos');

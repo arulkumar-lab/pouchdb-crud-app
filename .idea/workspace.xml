@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c847691-7c75-440c-85dd-f413858f65fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CheckBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/AddUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/AddUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/DeleteUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/DeleteUser.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/db/ListUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/ListUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/UpdateUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/UpdateUser.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581501245931</updated>
-      <workItem from="1581501249365" duration="26362000" />
+      <workItem from="1581501249365" duration="29709000" />
     </task>
     <servers />
   </component>
