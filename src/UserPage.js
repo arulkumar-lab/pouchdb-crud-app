@@ -19,6 +19,7 @@ class UserPage extends Component {
     handleKeyDown(event){
         if(event.key === 'Enter' && typeof event.currentTarget.value !== "undefined"){
             AddUser(event.currentTarget.value);
+            event.currentTarget.value="";
         }
     }
     loadUserList(){
