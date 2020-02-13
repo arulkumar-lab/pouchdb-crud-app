@@ -12,6 +12,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+![pouchdb-example](https://user-images.githubusercontent.com/56085499/74444105-44725700-4e6c-11ea-81db-c91dc1b336b8.PNG)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
